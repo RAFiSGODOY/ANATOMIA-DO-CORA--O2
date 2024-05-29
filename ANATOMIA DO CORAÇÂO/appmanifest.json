@@ -1,0 +1,16 @@
+{
+	"name": "PROJECT2",
+	"short_name": "PROJECT2",
+	"description": "",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "landscape",
+	"background_color": "#ffffff",
+	"icons": [
+		{
+			"src": "icons/icon-64.png",
+			"sizes": "586x414",
+			"type": "image/png"
+		}
+	]
+}
